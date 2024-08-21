@@ -6,5 +6,4 @@ If guessed correctly, he wins the game. If not, he gets maximum of 10 tries. Eac
 
 ## Demo
 
-
-
+![number-guessing-game](https://github.com/user-attachments/assets/7264e2e6-301a-49c9-af3d-43da675e3235)
